@@ -1,0 +1,20 @@
+{
+  "name": "discord_labubu_scrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.1.0",
+    "discord.js": "^14.20.0",
+    "dotenv": "^16.5.0",
+    "puppeteer": "^24.10.1",
+    "request": "^2.88.2"
+  }
+}
